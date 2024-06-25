@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2024-01-01",
+    "name": "Ano Novo",
+    "type": "national"
+  },
+  {
+    "date": "2024-02-12",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2024-02-13",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2024-02-14",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2024-03-17",
+    "name": "Aniversário de Aracaju",
+    "type": "municipal"
+  },
+  {
+    "date": "2024-03-29",
+    "name": "Sexta-Feira Santa",
+    "type": "national"
+  },
+  {
+    "date": "2024-04-21",
+    "name": "Dia de Tiradentes",
+    "type": "national"
+  },
+  {
+    "date": "2024-05-01",
+    "name": "Dia do Trabalho",
+    "type": "national"
+  },
+  {
+    "date": "2024-05-30",
+    "name": "Corpus Christi",
+    "type": "national"
+  },
+  {
+    "date": "2024-06-24",
+    "name": "São João",
+    "type": "municipal"
+  },
+  {
+    "date": "2024-07-08",
+    "name": "Aniversário de Sergipe",
+    "type": "state"
+  },
+  {
+    "date": "2024-09-07",
+    "name": "Independência do Brasil",
+    "type": "national"
+  },
+  {
+    "date": "2024-10-12",
+    "name": "Nossa Senhora Aparecida",
+    "type": "national"
+  },
+  {
+    "date": "2024-10-15",
+    "name": "Dia do Professor",
+    "type": "municipal"
+  },
+  {
+    "date": "2024-10-28",
+    "name": "Dia do Servidor Público",
+    "type": "national"
+  },
+  {
+    "date": "2024-11-02",
+    "name": "Dia de Finados",
+    "type": "national"
+  },
+  {
+    "date": "2024-11-15",
+    "name": "Proclamação da República",
+    "type": "national"
+  },
+  {
+    "date": "2024-11-20",
+    "name": "Consciência Negra",
+    "type": "municipal"
+  },
+  {
+    "date": "2024-12-08",
+    "name": "Padroeira",
+    "type": "municipal"
+  },
+  {
+    "date": "2024-12-25",
+    "name": "Natal",
+    "type": "national"
+  }
+]

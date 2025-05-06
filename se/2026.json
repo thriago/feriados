@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "Ano Novo",
+    "type": "national"
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2026-02-18",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2026-02-19",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2026-03-17",
+    "name": "Aniversário de Aracaju",
+    "type": "municipal"
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Sexta-Feira Santa",
+    "type": "national"
+  },
+  {
+    "date": "2026-04-21",
+    "name": "Dia de Tiradentes",
+    "type": "national"
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Dia do Trabalho",
+    "type": "national"
+  },
+  {
+    "date": "2026-06-04",
+    "name": "Corpus Christi",
+    "type": "national"
+  },
+  {
+    "date": "2026-06-24",
+    "name": "São João",
+    "type": "municipal"
+  },
+  {
+    "date": "2026-07-08",
+    "name": "Aniversário de Sergipe",
+    "type": "state"
+  },
+  {
+    "date": "2026-09-07",
+    "name": "Independência do Brasil",
+    "type": "national"
+  },
+  {
+    "date": "2026-10-12",
+    "name": "Nossa Senhora Aparecida",
+    "type": "national"
+  },
+  {
+    "date": "2026-10-15",
+    "name": "Dia do Professor",
+    "type": "municipal"
+  },
+  {
+    "date": "2026-10-28",
+    "name": "Dia do Servidor Público",
+    "type": "national"
+  },
+  {
+    "date": "2026-11-02",
+    "name": "Dia de Finados",
+    "type": "national"
+  },
+  {
+    "date": "2026-11-15",
+    "name": "Proclamação da República",
+    "type": "national"
+  },
+  {
+    "date": "2026-11-20",
+    "name": "Consciência Negra",
+    "type": "national"
+  },
+  {
+    "date": "2026-12-08",
+    "name": "Padroeira",
+    "type": "municipal"
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Natal",
+    "type": "national"
+  }
+]

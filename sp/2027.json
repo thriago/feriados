@@ -1,0 +1,97 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "Confraternização Universal",
+    "type": "national"
+  },
+  {
+    "date": "2027-01-25",
+    "name": "Aniversário de São Paulo",
+    "type": "municipal"
+  },
+  {
+    "date": "2027-02-09",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2027-02-10",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2027-02-11",
+    "name": "Quarta-feira de Cinzas (Ponto Facultativo até às 14h)",
+    "type": "national"
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Sexta-feira Santa",
+    "type": "national"
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Páscoa",
+    "type": "national"
+  },
+  {
+    "date": "2027-04-21",
+    "name": "Tiradentes",
+    "type": "national"
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Dia do Trabalho",
+    "type": "national"
+  },
+  {
+    "date": "2027-05-27",
+    "name": "Corpus Christi",
+    "type": "municipal"
+  },
+  {
+    "date": "2027-07-09",
+    "name": "Revolução Constitucionalista",
+    "type": "state"
+  },
+  {
+    "date": "2027-09-07",
+    "name": "Independência do Brasil",
+    "type": "national"
+  },
+  {
+    "date": "2027-10-12",
+    "name": "Nossa Senhora Aparecida",
+    "type": "national"
+  },
+  {
+    "date": "2027-11-02",
+    "name": "Finados",
+    "type": "national"
+  },
+  {
+    "date": "2027-11-15",
+    "name": "Proclamação da República",
+    "type": "national"
+  },
+  {
+    "date": "2027-11-20",
+    "name": "Dia da Consciência Negra",
+    "type": "municipal"
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Véspera de Natal (Expediente encerrado às 14h)",
+    "type": "national"
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Natal",
+    "type": "national"
+  },
+  {
+    "date": "2027-12-31",
+    "name": "Véspera de Ano Novo (Expediente encerrado às 14h)",
+    "type": "national"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2029-01-01",
+    "name": "Ano Novo",
+    "type": "national"
+  },
+  {
+    "date": "2029-02-13",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2029-02-14",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2029-02-15",
+    "name": "Carnaval",
+    "type": "national"
+  },
+  {
+    "date": "2029-03-17",
+    "name": "Aniversário de Aracaju",
+    "type": "municipal"
+  },
+  {
+    "date": "2029-03-30",
+    "name": "Sexta-Feira Santa",
+    "type": "national"
+  },
+  {
+    "date": "2029-04-21",
+    "name": "Dia de Tiradentes",
+    "type": "national"
+  },
+  {
+    "date": "2029-05-01",
+    "name": "Dia do Trabalho",
+    "type": "national"
+  },
+  {
+    "date": "2029-05-31",
+    "name": "Corpus Christi",
+    "type": "national"
+  },
+  {
+    "date": "2029-06-24",
+    "name": "São João",
+    "type": "municipal"
+  },
+  {
+    "date": "2029-07-08",
+    "name": "Aniversário de Sergipe",
+    "type": "state"
+  },
+  {
+    "date": "2029-09-07",
+    "name": "Independência do Brasil",
+    "type": "national"
+  },
+  {
+    "date": "2029-10-12",
+    "name": "Nossa Senhora Aparecida",
+    "type": "national"
+  },
+  {
+    "date": "2029-10-15",
+    "name": "Dia do Professor",
+    "type": "municipal"
+  },
+  {
+    "date": "2029-10-28",
+    "name": "Dia do Servidor Público",
+    "type": "national"
+  },
+  {
+    "date": "2029-11-02",
+    "name": "Dia de Finados",
+    "type": "national"
+  },
+  {
+    "date": "2029-11-15",
+    "name": "Proclamação da República",
+    "type": "national"
+  },
+  {
+    "date": "2029-11-20",
+    "name": "Consciência Negra",
+    "type": "national"
+  },
+  {
+    "date": "2029-12-08",
+    "name": "Padroeira",
+    "type": "municipal"
+  },
+  {
+    "date": "2029-12-25",
+    "name": "Natal",
+    "type": "national"
+  }
+]
